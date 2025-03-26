@@ -1,6 +1,6 @@
 {
   "name": "@mikedeni/image-url-validator",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A utility function to verify if a given URL points to a valid image by checking its content type.",
   "main": "index.js",
   "scripts": {
